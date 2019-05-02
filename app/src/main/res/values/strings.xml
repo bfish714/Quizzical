@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiznos</string>
+    <string name="title_home">Home</string>
+    <string name="game_fill">This page is the game portion, requires the database to function</string>
+    <string name="set_fill">This is the settings page, will have language selection
+                            and maybe a dark theme</string>
+    <string name="list_fill">This is the leaderboard page, must create DB before usable</string>
+    <string name="tag">Let\'s get Quizzical!</string>
+    <string name="play">Play Game</string>
+    <string name="inf">Infinite Play</string>
+    <string name="title_dashboard">Leaderboard</string>
+    <string name="title_list">Leaderboard</string>
+    <string name="title_notifications">Settings</string>
+    <string name="title_gear">Settings</string>
+    <string name="select">Select a Subject</string>
+    <string name="title_activity_listboard">listboard</string>
+    <string name="title_activity_settings">settings</string>
+    <string name="title_activity_gameplay">gameplay</string>
+    <string name="quizzical_logo">Quizzical logo</string>
+    <string name="flame">flame</string>
+    <string name="all">All</string>
+    <string name="beaker">beaker</string>
+    <string name="science">Science</string>
+    <string name="star">star</string>
+    <string name="earth">earth</string>
+    <string name="pop_culture">Pop Culture</string>
+    <string name="calculator">calculator</string>
+    <string name="scroll">scroll</string>
+    <string name="geography">Geography</string>
+    <string name="history">History</string>
+    <string name="quiz">Quizzical</string>
+</resources>
